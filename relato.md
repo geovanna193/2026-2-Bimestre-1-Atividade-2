@@ -3,9 +3,9 @@
 ## ​Introdução:
 ​Este relato faz parte do processo avaliativo da disciplina de Sistemas Operacionais no curso superior em Análise e Desenvolvimento de Sistemas, ofertado na Diretoria Acadêmica de Gestão e Tecnologia da Informação (DIATINF) no campus Natal-Central do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN).
 
-​Tem como objetivo principal relatar como implementar linhas de execução na linguagem Clojure, demonstrando o uso de chamadas nativas de threads da JVM (Thread.), sincronização de ciclos de vida (.start e .join) e abstrações concorrentes de alto nível (future).
-​O grupo de trabalho foi formado por: Geovanna Negreiros, Haama Kethelen e LucasNatan.
-​Implementando múltiplas linhas de execução em Clojure
+​Tem como objetivo principal relatar como implementar linhas de execução na linguagem Clojure, demonstrando o uso de chamadas nativas de threads da JVM (Thread.), sincronização de ciclos de vida (.start e .join) e abstrações concorrentes de alto nível (future). 
+​O grupo de trabalho foi formado por: Geovanna Negreiros, Haama Kethelen e Lucas Natan. 
+​Implementando múltiplas linhas de execução em Clojure. 
 ​Informações gerais sobre Clojure
 
 ## ​Objetivo: 
