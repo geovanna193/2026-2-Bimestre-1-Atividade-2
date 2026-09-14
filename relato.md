@@ -10,7 +10,7 @@
 ​Informações gerais sobre Clojure:
 
 ## ​Objetivo: 
-Criada por **Rich Hickey** em '2007', Clojure foi concebida para simplificar a programação concorrente e paralela em processadores modernos 'multicore'. Seu foco é eliminar as falhas típicas de sincronização manual, como travas (locks), condições de corrida (race conditions) e bloqueios mútuos (deadlocks), promovendo o isolamento de estados mutáveis e o uso universal de coleções e valores estritamente imutáveis.
+Criada por **Rich Hickey** em 2007, Clojure foi concebida para simplificar a programação concorrente e paralela em processadores modernos 'multicore'. Seu foco é eliminar as falhas típicas de sincronização manual, como travas (locks), condições de corrida (race conditions) e bloqueios mútuos (deadlocks), promovendo o isolamento de estados mutáveis e o uso universal de coleções e valores estritamente imutáveis.
 
 ## ​Paradigma:
 Funcional, baseada na família **Lisp** (homoiconicidade — código representado como estruturas de dados), com suporte a metaprogramação via macros e foco em funções de primeira classe e avaliação pura.
